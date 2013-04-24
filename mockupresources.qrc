@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>InputPanel.qml</file>
+        <file>KeyModel.qml</file>
+        <file>KeyButton.qml</file>
+        <file>FontAwesome.otf</file>
+    </qresource>
+</RCC>
